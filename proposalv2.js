@@ -40,7 +40,7 @@ const audio = document.getElementById("love-song");
 
 //IMAGESSSSSS///////
 
-const hands = document.getElementById('hands');
+
 const sadcat = document.getElementById('sadcat');
 const crying = document.getElementById('crying');
 const sadboi = document.getElementById('sadboi');
@@ -77,7 +77,7 @@ btt12.addEventListener("click", function (){
 bbtt3.addEventListener("click", function (){
 			btt1.style.opacity= "1";
 			bbtt3.style.opacity= "0";
-			hands.style.opacity= "1";
+			
 									
 });
 
